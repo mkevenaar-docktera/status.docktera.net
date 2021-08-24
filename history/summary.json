@@ -1,20 +1,20 @@
 [
   {
-    "name": "DOCKTERA",
+    "name": "DOCKTERA (www.docktera.com)",
     "url": "https://www.docktera.com",
     "icon": "https://favicons.githubusercontent.com/www.docktera.com",
-    "slug": "docktera",
+    "slug": "docktera-www-docktera-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1155,
-    "timeDay": 1155,
-    "timeWeek": 1155,
-    "timeMonth": 1155,
-    "timeYear": 1155,
+    "time": 1640,
+    "timeDay": 1640,
+    "timeWeek": 1640,
+    "timeMonth": 1640,
+    "timeYear": 1640,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 649,
-    "timeWeek": 649,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "time": 732,
+    "timeDay": 732,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1894,
-    "timeDay": 1894,
-    "timeWeek": 1894,
-    "timeMonth": 1894,
-    "timeYear": 1894,
+    "time": 1971,
+    "timeDay": 1971,
+    "timeWeek": 1971,
+    "timeMonth": 1971,
+    "timeYear": 1971,
     "dailyMinutesDown": {}
   }
 ]
