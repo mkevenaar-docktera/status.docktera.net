@@ -7,7 +7,7 @@ sites:
     url: https://www.docktera.com
   - name: DOCKTERA PaaS
     url: https://app.jls.docktera.net
-  - name: my DOCKTERA
+  - name: DOCKTERA (my.docktera.com)
     url: https://my.docktera.com
 
 status-website:
