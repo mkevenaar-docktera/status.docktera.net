@@ -3,7 +3,7 @@ owner: mkevenaar-docktera # Your GitHub organization or username, where this rep
 repo: status.docktera.net # The name of this repository
 
 sites:
-  - name: DOCKTERA
+  - name: DOCKTERA (www.docktera.com)
     url: https://www.docktera.com
   - name: DOCKTERA PaaS
     url: https://app.jls.docktera.net
