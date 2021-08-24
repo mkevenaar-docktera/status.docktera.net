@@ -7,6 +7,8 @@ sites:
     url: https://www.docktera.com
   - name: DOCKTERA PaaS
     url: https://app.jls.docktera.net
+  - name: my DOCKTERA
+    url: https://my.docktera.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
