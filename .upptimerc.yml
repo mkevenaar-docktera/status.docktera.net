@@ -9,6 +9,14 @@ sites:
     url: https://app.jls.docktera.net
   - name: DOCKTERA (my.docktera.com)
     url: https://my.docktera.com
+  - name: DOCKTERA DNS 1
+    check: "tcp-ping"
+    url: ns1.docktera.domains
+    port: 53
+  - name: DOCKTERA DNS 2
+    check: "tcp-ping"
+    url: ns2.docktera.domains
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
