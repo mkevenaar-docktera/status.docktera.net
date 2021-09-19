@@ -22,19 +22,19 @@
     "url": "https://app.jls.docktera.net",
     "icon": "https://favicons.githubusercontent.com/app.jls.docktera.net",
     "slug": "docktera-paa-s",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 872,
-    "timeDay": 3681,
-    "timeWeek": 1266,
+    "timeDay": 2284,
+    "timeWeek": 1219,
     "timeMonth": 872,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2021-09-19": 5
+      "2021-09-19": 13
     }
   },
   {
