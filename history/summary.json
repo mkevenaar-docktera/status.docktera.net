@@ -4,7 +4,7 @@
     "url": "https://www.docktera.com",
     "icon": "https://favicons.githubusercontent.com/www.docktera.com",
     "slug": "docktera-www-docktera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -22,10 +22,10 @@
     "url": "https://app.jls.docktera.net",
     "icon": "https://favicons.githubusercontent.com/app.jls.docktera.net",
     "slug": "docktera-paa-s",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
@@ -33,14 +33,16 @@
     "timeWeek": 833,
     "timeMonth": 907,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "DOCKTERA (my.docktera.com)",
     "url": "https://my.docktera.com",
     "icon": "https://favicons.githubusercontent.com/my.docktera.com",
     "slug": "docktera-my-docktera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
