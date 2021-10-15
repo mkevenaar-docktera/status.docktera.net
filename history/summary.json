@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1188,
-    "timeDay": 966,
-    "timeWeek": 1085,
-    "timeMonth": 1199,
-    "timeYear": 1188,
+    "time": 1194,
+    "timeDay": 1507,
+    "timeWeek": 1105,
+    "timeMonth": 1211,
+    "timeYear": 1194,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "docktera-paa-s",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 973,
-    "timeDay": 4837,
-    "timeWeek": 1791,
-    "timeMonth": 1152,
-    "timeYear": 973,
+    "time": 975,
+    "timeDay": 1149,
+    "timeWeek": 1807,
+    "timeMonth": 1170,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2021-10-13": 17
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1740,
-    "timeDay": 5371,
-    "timeWeek": 2515,
-    "timeMonth": 1823,
-    "timeYear": 1740,
+    "time": 1744,
+    "timeDay": 1958,
+    "timeWeek": 2560,
+    "timeMonth": 1834,
+    "timeYear": 1744,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 85,
-    "timeWeek": 136,
+    "timeDay": 156,
+    "timeWeek": 134,
     "timeMonth": 144,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 108,
-    "timeWeek": 131,
-    "timeMonth": 138,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 185,
+    "timeWeek": 138,
+    "timeMonth": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   }
 ]
