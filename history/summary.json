@@ -45,19 +45,19 @@
     "url": "https://my.docktera.com",
     "icon": "https://favicons.githubusercontent.com/my.docktera.com",
     "slug": "docktera-my-docktera-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1770,
-    "timeDay": 1379,
-    "timeWeek": 1547,
-    "timeMonth": 1577,
-    "timeYear": 1770,
+    "time": 1768,
+    "timeDay": 1389,
+    "timeWeek": 1532,
+    "timeMonth": 1572,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 5
     }
   },
   {
