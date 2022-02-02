@@ -45,18 +45,20 @@
     "url": "https://my.docktera.com",
     "icon": "https://favicons.githubusercontent.com/my.docktera.com",
     "slug": "docktera-my-docktera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1775,
-    "timeDay": 1823,
-    "timeWeek": 1635,
-    "timeMonth": 1597,
-    "timeYear": 1775,
-    "dailyMinutesDown": {}
+    "time": 1770,
+    "timeDay": 1379,
+    "timeWeek": 1547,
+    "timeMonth": 1577,
+    "timeYear": 1770,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "DOCKTERA DNS 1",
