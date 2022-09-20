@@ -4,10 +4,10 @@
     "url": "https://www.docktera.com",
     "icon": "https://favicons.githubusercontent.com/www.docktera.com",
     "slug": "docktera-www-docktera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1180,
@@ -15,7 +15,9 @@
     "timeWeek": 1100,
     "timeMonth": 1103,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "DOCKTERA PaaS",
