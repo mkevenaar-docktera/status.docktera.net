@@ -4,18 +4,20 @@
     "url": "https://www.docktera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.docktera.com.ico",
     "slug": "docktera-www-docktera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1172,
     "timeDay": 1198,
     "timeWeek": 1023,
     "timeMonth": 1107,
     "timeYear": 1158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 3
+    }
   },
   {
     "name": "DOCKTERA PaaS",
@@ -44,10 +46,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.docktera.com.ico",
     "slug": "docktera-my-docktera-com",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.66%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.79%",
     "time": 1778,
     "timeDay": 3080,
@@ -55,7 +57,7 @@
     "timeMonth": 1955,
     "timeYear": 1756,
     "dailyMinutesDown": {
-      "2022-11-09": 0,
+      "2022-11-09": 35,
       "2022-10-31": 587,
       "2022-07-10": 188,
       "2022-07-09": 42,
@@ -69,10 +71,10 @@
     "url": "ns1.docktera.domains",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docktera-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
@@ -80,16 +82,18 @@
     "timeWeek": 139,
     "timeMonth": 149,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 1
+    }
   },
   {
     "name": "DOCKTERA DNS 2",
     "url": "ns2.docktera.domains",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docktera-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +102,8 @@
     "timeWeek": 133,
     "timeMonth": 151,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 0
+    }
   }
 ]
