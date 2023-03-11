@@ -12,7 +12,7 @@
     "uptimeYear": "99.50%",
     "time": 1235,
     "timeDay": 1213,
-    "timeWeek": 1310,
+    "timeWeek": 1301,
     "timeMonth": 1286,
     "timeYear": 1235,
     "dailyMinutesDown": {
@@ -29,10 +29,10 @@
     "url": "https://app.jls.docktera.net",
     "icon": "https://icons.duckduckgo.com/ip3/app.jls.docktera.net.ico",
     "slug": "docktera-paa-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 788,
@@ -41,6 +41,7 @@
     "timeMonth": 733,
     "timeYear": 771,
     "dailyMinutesDown": {
+      "2023-03-11": 0,
       "2023-03-10": 19,
       "2022-07-17": 15
     }
