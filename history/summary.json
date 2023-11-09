@@ -6,17 +6,16 @@
     "slug": "docktera-www-docktera-com",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 1220,
-    "timeDay": 921,
-    "timeWeek": 944,
-    "timeMonth": 1021,
+    "timeDay": 925,
+    "timeWeek": 962,
+    "timeMonth": 1011,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2023-11-08": 5,
       "2023-08-21": 49,
       "2023-05-26": 18,
       "2023-03-16": 33,
@@ -25,8 +24,7 @@
       "2023-03-07": 26,
       "2023-01-25": 33,
       "2022-11-11": 651,
-      "2022-11-10": 1440,
-      "2022-11-09": 438
+      "2022-11-10": 1440
     }
   },
   {
@@ -40,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 775,
-    "timeDay": 726,
-    "timeWeek": 625,
-    "timeMonth": 1174,
-    "timeYear": 770,
+    "time": 776,
+    "timeDay": 841,
+    "timeWeek": 660,
+    "timeMonth": 1177,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2023-09-17": 22,
       "2023-08-21": 505,
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.66%",
-    "time": 1791,
-    "timeDay": 1756,
-    "timeWeek": 1568,
-    "timeMonth": 1699,
-    "timeYear": 1762,
+    "time": 1792,
+    "timeDay": 1832,
+    "timeWeek": 1611,
+    "timeMonth": 1701,
+    "timeYear": 1759,
     "dailyMinutesDown": {
       "2023-10-26": 25,
       "2023-10-24": 17,
@@ -88,8 +86,7 @@
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
-      "2022-11-10": 1440,
-      "2022-11-09": 470
+      "2022-11-10": 1440
     }
   },
   {
@@ -104,15 +101,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 173,
-    "timeDay": 155,
-    "timeWeek": 179,
-    "timeMonth": 168,
+    "timeDay": 156,
+    "timeWeek": 177,
+    "timeMonth": 165,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2022-11-14": 465,
       "2022-11-11": 693,
-      "2022-11-10": 1440,
-      "2022-11-09": 437
+      "2022-11-10": 1440
     }
   },
   {
@@ -127,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.90%",
     "time": 154,
-    "timeDay": 233,
-    "timeWeek": 173,
-    "timeMonth": 161,
+    "timeDay": 196,
+    "timeWeek": 175,
+    "timeMonth": 162,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2023-05-26": 16,
@@ -158,8 +154,7 @@
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
-      "2022-11-10": 1440,
-      "2022-11-09": 435
+      "2022-11-10": 1440
     }
   }
 ]
