@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1221,
-    "timeDay": 695,
-    "timeWeek": 1201,
-    "timeMonth": 1051,
-    "timeYear": 1253,
+    "timeDay": 1110,
+    "timeWeek": 1219,
+    "timeMonth": 1057,
+    "timeYear": 1252,
     "dailyMinutesDown": {
       "2023-08-21": 49,
       "2023-05-26": 18,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 775,
-    "timeDay": 432,
-    "timeWeek": 1521,
-    "timeMonth": 834,
+    "timeDay": 659,
+    "timeWeek": 1526,
+    "timeMonth": 839,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2023-09-17": 22,
@@ -64,20 +64,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.30%",
-    "time": 1760,
-    "timeDay": 1708,
-    "timeWeek": 2721,
-    "timeMonth": 1920,
-    "timeYear": 1784,
+    "uptimeYear": "99.32%",
+    "time": 1803,
+    "timeDay": 1390,
+    "timeWeek": 2704,
+    "timeMonth": 1918,
+    "timeYear": 1783,
     "dailyMinutesDown": {
       "2023-10-26": 25,
       "2023-10-24": 17,
       "2023-08-21": 49,
       "2023-01-25": 25,
       "2022-11-22": 629,
-      "2022-11-21": 1440,
-      "2022-11-20": 1434
+      "2022-11-21": 1440
     }
   },
   {
@@ -92,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 109,
-    "timeWeek": 174,
-    "timeMonth": 168,
-    "timeYear": 174,
+    "timeDay": 150,
+    "timeWeek": 178,
+    "timeMonth": 169,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -104,15 +103,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docktera-dns-2",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.46%",
+    "uptimeYear": "95.74%",
     "time": 154,
-    "timeDay": 113,
-    "timeWeek": 148,
-    "timeMonth": 157,
+    "timeDay": 193,
+    "timeWeek": 157,
+    "timeMonth": 158,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2023-05-26": 16,
@@ -130,8 +129,7 @@
       "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
-      "2022-11-21": 1440,
-      "2022-11-20": 1440
+      "2022-11-21": 1440
     }
   }
 ]
