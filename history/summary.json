@@ -4,19 +4,19 @@
     "url": "https://www.docktera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.docktera.com.ico",
     "slug": "docktera-www-docktera-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 1219,
-    "timeWeek": 962,
-    "timeMonth": 928,
-    "timeYear": 921,
+    "time": 967,
+    "timeDay": 980,
+    "timeWeek": 934,
+    "timeMonth": 922,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 5
     }
   },
   {
