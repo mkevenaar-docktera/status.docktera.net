@@ -24,9 +24,9 @@
     "slug": "docktera-paa-s",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 656,
     "timeDay": 440,
@@ -34,7 +34,7 @@
     "timeMonth": 555,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-11-18": 0,
+      "2024-11-18": 7,
       "2024-10-14": 20,
       "2024-09-16": 29,
       "2024-08-19": 74,
@@ -87,9 +87,9 @@
     "url": "ns2.docktera.domains",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docktera-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,8 @@
     "timeWeek": 94,
     "timeMonth": 105,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-18": 0
+    }
   }
 ]
