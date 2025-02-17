@@ -4,10 +4,10 @@
     "url": "https://www.docktera.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.docktera.com.ico",
     "slug": "docktera-www-docktera-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 921,
@@ -15,16 +15,18 @@
     "timeWeek": 898,
     "timeMonth": 867,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-17": 1
+    }
   },
   {
     "name": "DOCKTERA PaaS",
     "url": "https://app.jls.docktera.net",
     "icon": "https://icons.duckduckgo.com/ip3/app.jls.docktera.net.ico",
     "slug": "docktera-paa-s",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.94%",
@@ -34,6 +36,7 @@
     "timeMonth": 560,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2025-02-17": 0,
       "2025-01-20": 133,
       "2024-11-18": 23,
       "2024-10-14": 20,
@@ -48,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.docktera.com.ico",
     "slug": "docktera-my-docktera-com",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
