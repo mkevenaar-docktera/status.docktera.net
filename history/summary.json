@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.docktera.com.ico",
     "slug": "docktera-www-docktera-com",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 1707,
     "timeWeek": 1455,
     "timeMonth": 1394,
     "timeYear": 969,
-    "dailyMinutesDown": {
-      "2025-10-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DOCKTERA PaaS",
